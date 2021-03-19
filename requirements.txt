@@ -5,7 +5,7 @@ decorator==4.2.1
 Django==1.10.6
 django-memcached==0.1.2
 django-redis==4.9.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 entrypoints==0.2.3
 html5lib==1.0.1
 ipykernel==4.8.2
